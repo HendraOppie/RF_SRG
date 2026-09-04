@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RF_UI", "RF_SRG\RF_UI.vbproj", "{DD60D2BA-49F0-41EB-B64A-E2D2FA608346}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "RF_Setup", "Setup\RF_Setup.vbproj", "{DD79459B-0FC3-4198-BE54-3537808EBC59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD60D2BA-49F0-41EB-B64A-E2D2FA608346}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD60D2BA-49F0-41EB-B64A-E2D2FA608346}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD60D2BA-49F0-41EB-B64A-E2D2FA608346}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD60D2BA-49F0-41EB-B64A-E2D2FA608346}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD79459B-0FC3-4198-BE54-3537808EBC59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD79459B-0FC3-4198-BE54-3537808EBC59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD79459B-0FC3-4198-BE54-3537808EBC59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD79459B-0FC3-4198-BE54-3537808EBC59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC267162-8C42-464E-9B8C-6151B85EC84F}
+	EndGlobalSection
+EndGlobal
